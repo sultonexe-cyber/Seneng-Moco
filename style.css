@@ -1,0 +1,61 @@
+/*
+.jumbotron{
+    background-image: url(../img/26102.jpg);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4{
+    color: white;
+    margin-top: 200px;
+}
+.jumbotron p{
+    color: white;
+    font-size: 25px;
+}
+.jumbotron .my-4{
+    border-color: rgb(100, 100, 173);
+    width: 100px;
+    border-width: 3px;
+}
+.jumbotron .btn{
+    background-color: rgb(100, 100, 173);
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 30px;
+}
+*/
+
+/*Style Slider*/
+
+.d-block w-100{
+    background-size: cover
+}
+.carousel-item{
+    height: 700px;
+}
+.carousel-item .display-4{
+    color: white;
+    margin-top: -400px;
+}
+.carousel-item p{
+    color: white;
+    font-size: 25px;
+}
+.carousel-item .my-4{
+    border-color: rgb(100, 100, 173);
+    width: 100px;
+    border-width: 3px;
+}
+.carousel-item .btn{
+    background-color: rgb(100, 100, 173);
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 30px;
+}
+
